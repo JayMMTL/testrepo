@@ -1,0 +1,21 @@
+{
+"uid": "{{customer['L - User Id']}}",
+"Copy01": {
+      "H1": "{% if {{customer['L - User Language']}} contains 'en' %}This is a H1 title",
+      "body": "{% if {{customer['L - User Language']}} contains 'en' %}Here is some body content<br /><br />With some line breaks in between",
+      "cta": "{% if {{customer['L - User Language']}} contains 'en' %}Click me",
+      "link": "{% if {{customer['L - User Language']}} contains 'en' %}blog.landr.com/nohttpsinlinkforinapp?utm_source=landr_cs&utm_medium=inapporemail&utm_campaign=ciowebhook&utm_content=Copy01&utm_term=en"
+    },
+"Copy02": {
+          "H1": "{% if {{customer['L - User Language']}} contains 'en' %}This is a H1 title",
+          "body": "{% if {{customer['L - User Language']}} contains 'en' %}Here is some body content<br /><br />With some line breaks in between",
+          "cta": "{% if {{customer['L - User Language']}} contains 'en' %}Click me",
+          "link": "{% if {{customer['L - User Language']}} contains 'en' %}blog.landr.com/nohttpsinlinkforinapp?utm_source=landr_cs&utm_medium=inapporemail&utm_campaign=ciowebhook&utm_content=Copy01&utm_term=en"
+        },
+"Copy03": {
+                  "H1": "{% if {{customer['L - User Language']}} contains 'en' %}This is a H1 title",
+                  "body": "{% if {{customer['L - User Language']}} contains 'en' %}Here is some body content<br /><br />With some line breaks in between",
+                  "cta": "{% if {{customer['L - User Language']}} contains 'en' %}Click me",
+                  "link": "{% if {{customer['L - User Language']}} contains 'en' %}blog.landr.com/nohttpsinlinkforinapp?utm_source=landr_cs&utm_medium=inapporemail&utm_campaign=ciowebhook&utm_content=Copy01&utm_term=en"
+                }
+}
