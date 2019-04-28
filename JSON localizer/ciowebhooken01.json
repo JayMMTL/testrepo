@@ -1,5 +1,4 @@
 {
-"uid": "{{customer['L - User Id']}}",
 "Copy01": {
       "H1": "This is a H1 title",
       "body": "Here is some body content<br /><br />With some line breaks in between",
